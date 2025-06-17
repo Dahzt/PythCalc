@@ -19,7 +19,7 @@ if nc == "2":
         tp1 = input("Select number 1: ")
         tp2 = input("Select number 2: ")
         print("The result is: ", Decimal(tp1) + Decimal(tp2))
-        input()2100000000000000000000000
+        input()
     elif tct == "-":
 
         tm1 = input("Select number 1: ")
