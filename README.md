@@ -1,5 +1,6 @@
 # PythCalc
 Terminal-based calculator written in Python
 
+---
 
-t
+### The .exe file does not require Python, but it is recommended!
